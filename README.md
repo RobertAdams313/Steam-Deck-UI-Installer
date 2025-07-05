@@ -1,4 +1,5 @@
 # Steam Deck ElvUI Installer
+[![GitHub release](https://img.shields.io/github/v/release/RobertAdams313/Steam-Deck-UI-Installer?label=Latest%20Release)](https://github.com/RobertAdams313/Steam-Deck-UI-Installer/releases/latest)
 
 A custom ElvUI layout and Plater profile installer optimized for Steam Deck and small-screen UI users.
 
