@@ -1,0 +1,8 @@
+## Interface: 90505
+## Title: SteamDeckElvUIInstaller
+## Notes: Automatically installs Steam Deck layout for ElvUI and Plater
+## Author: Robert Adams
+## Version: 1.0
+## SavedVariablesPerCharacter: SteamDeckElvUIInstallerSettings
+
+Code.lua
