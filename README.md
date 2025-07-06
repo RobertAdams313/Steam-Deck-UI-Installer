@@ -34,13 +34,6 @@ A custom ElvUI layout and Plater profile installer optimized for Steam Deck and 
 
 > *(Add your UI screenshot here)*
 
-## 🎯 For Developers
-
-- `Code.lua` – main logic and layout settings
-- `SteamDeckIcon.tga` – in-game addon icon
-- Uses ElvUI's PluginInstaller API for easy layout setup
-- Easily customizable with localized strings and mover positions
-
 ---
 
 © 2025 Robert Adams  
